@@ -1,0 +1,60 @@
+{
+  "menuWallData" : [
+    {
+      "categoryId": 1,
+      "categoryName": "Burgers",
+      "categoryDescription": "Tasty Burgers are here",
+      "categoryBestPrice": "$3.0",
+      "categoryImage": "Burger.png"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Meals",
+      "categoryDescription": "Wide range of meal combinations",
+      "categoryBestPrice": "$4.0",
+      "categoryImage": "Meal.png"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Sweets",
+      "categoryDescription": "To make your day much more sweeter",
+      "categoryBestPrice": "$1.0",
+      "categoryImage": "Sweets.png"
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Bakery",
+      "categoryDescription": "Baked for you with the Rich Flour",
+      "categoryBestPrice": "$1.0",
+      "categoryImage": "Bakery.png"
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Beverages",
+      "categoryDescription": "Cool Beverages to keep you cool",
+      "categoryBestPrice": "$2.0",
+      "categoryImage": "Drink.png"
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Fries",
+      "categoryDescription": "Crispy and Crunchy as you like",
+      "categoryBestPrice": "$2.0",
+      "categoryImage": "Fries.png"
+    },
+    {
+      "categoryId": 7,
+      "categoryName": "Coffee",
+      "categoryDescription": "Best combinations to you at all time",
+      "categoryBestPrice": "$3.0",
+      "categoryImage": "Coffee.png"
+    },
+    {
+      "categoryId": 8,
+      "categoryName": "Condiments",
+      "categoryDescription": "Anything which you like to add-on",
+      "categoryBestPrice": "$2.0",
+      "categoryImage": "Condiments.png"
+    }
+  ]
+}

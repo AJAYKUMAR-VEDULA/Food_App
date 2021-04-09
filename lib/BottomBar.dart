@@ -32,6 +32,7 @@ class _BottomBarState extends State<BottomBar> {
           color: Colors.black,
         ),
         backgroundColor: Color.fromRGBO(255, 209, 85, 1),
+        splashColor: Colors.black,
         onPressed: () {},
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
